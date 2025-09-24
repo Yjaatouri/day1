@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1758702358 source:c:\users\ycode\desktop\day1\les boucles\calcul de la somme des n entiers\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1758701750 source:c:\users\ycode\desktop\day1\les boucles\factorielle d'un nombre\main.c
+	<stdio.h>
+	<stdlib.h>
+
